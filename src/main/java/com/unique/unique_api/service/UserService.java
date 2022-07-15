@@ -1,9 +1,7 @@
-package com.unique.unique_api.service;
+
 
 import com.unique.unique_api.controllers.dto.UserDTO;
 import com.unique.unique_api.repositories.entities.User;
-
-public interface UserService {
 
     User findByUsername(String username);
 
