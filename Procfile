@@ -1,1 +1,1 @@
-web: java -jar build/libs/unique_api-0.0.1-SNAPSHOT.jar --spring.profiles.active=prod
+web: java -jar build/libs/Unique-0.0.1-SNAPSHOT.jar --spring.profiles.active=prod
